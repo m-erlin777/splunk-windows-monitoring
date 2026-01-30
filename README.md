@@ -1,2 +1,1 @@
-# splunk-windows-monitoring
-Windows Event Log Monitoring with Splunk
+# Windows Event Log Monitoring with Splunk
